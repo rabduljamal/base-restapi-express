@@ -1,6 +1,6 @@
 # base-restapi-express
 Base Project Restapi Express
-
+<pre>
 "dependencies": {
     "async": "^2.6.1",
     "async-foreach": "^0.1.3",
@@ -32,3 +32,4 @@ Base Project Restapi Express
     "tsscmp": "^1.0.6",
     "usleep": "^1.0.3"
   }
+  </pre>
