@@ -33,3 +33,10 @@ Base Project Restapi Express
     "usleep": "^1.0.3"
   }
   </pre>
+  
+  <h2>Setup</h2>
+  <pre>
+    $ npm install
+  </pre>
+  
+  Server Running on PORT 400
